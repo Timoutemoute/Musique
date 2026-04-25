@@ -22,7 +22,7 @@ const config = {
 const artistInfo = {
     name: "moutemoute",
     bio: "Moutemoute est un artiste indépendant qui transforme ses expériences personnelles en musique. À travers ses morceaux, il raconte des fragments de vie, des émotions sincères et des histoires inspirées de son quotidien. Son univers musical se construit autour de l'authenticité, avec une volonté de parler vrai et de créer une connexion directe avec ceux qui l'écoutent. Tout juste lancé dans son parcours artistique, Moutemoute avance en indépendant, libre de construire son identité à son rythme. Ses textes puisent dans ses ressentis, ses relations et les moments marquants de sa vie. Chaque morceau devient une façon d'exprimer ce qui ne se dit pas toujours avec des mots ordinaires. Entouré de nombreuses personnes qui participent à son inspiration et à son évolution, il construit sa musique comme un projet humain autant qu'artistique. Son entourage nourrit son écriture, influence ses idées et accompagne sa progression. Son titre 'Ami ou Amour' apparaît parmi ses premières sorties musicales. Moutemoute représente une nouvelle voix indépendante : sincère, proche de la réalité et portée par l'envie de raconter une histoire vraie",
-    avatarUrl: "https://placehold.co/400x400/1DB954/white?text=ARTISTE" // Remplacez par votre vrai photo URL
+    avatarUrl: "image/carré.png" // Remplacez par votre vrai photo URL
 };
 
 // Fonction pour mettre à jour les liens de streaming
